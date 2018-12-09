@@ -16,7 +16,6 @@ pipeline {
         stage('Test') {
 
             steps {
-                sh 'docker-compose build && docker-compose up'
                 sh 'export MODE=dev && python -m pytest --verbose --junit-xml test-reports/results.xml tests/lab3/utestsLab3.py'
             }
             post {
