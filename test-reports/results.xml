@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="6" time="9.594"><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="83" name="test_change_symbol" time="0.6964294910430908"><system-out>Enviroment - dev
+</system-out></testcase><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="110" name="test_change_unused_symbol" time="0.35373520851135254"><system-out>Enviroment - dev
+</system-out></testcase><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="77" name="test_empty_array" time="0.12251996994018555"><system-out>Enviroment - dev
+</system-out></testcase><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="96" name="test_empty_symbol" time="0.39917540550231934"><system-out>Enviroment - dev
+</system-out></testcase><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="32" name="test_get_all_phones" time="0.533013105392456"><system-out>Enviroment - dev
+</system-out></testcase><testcase classname="tests.lab3.integrTestsLab3.TestApplicationServiceImpl" file="tests/lab3/integrTestsLab3.py" line="53" name="test_get_phones_with_same_name" time="6.588551044464111"><system-out>Enviroment - dev
+</system-out></testcase></testsuite>

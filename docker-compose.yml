@@ -9,7 +9,9 @@ services:
       - "27017:27017"
     volumes:
       - 'mongodb_data:/bitnami'
+    network_mode: bridge
 
 volumes:
   mongodb_data:
     driver: local
+
