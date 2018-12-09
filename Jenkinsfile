@@ -16,8 +16,7 @@ pipeline {
         stage('Test') {
 
             steps {
-                sh 'export MODE=dev'
-                sh 'python -m pytest --verbose --junit-xml test-reports/results.xml tests/lab3/integrTestsLab3.py'
+                sh 'export MODE=dev && python -m pytest --verbose --junit-xml test-reports/results.xml tests/lab3/integrTestsLab3.py'
             }
             post {
                 always {
