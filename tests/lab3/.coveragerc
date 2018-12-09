@@ -1,0 +1,8 @@
+[report]
+exclude_lines =
+    pragma: no cover
+    import
+include =
+    /home/dima/PycharmProjects/qalabs/lab2/ApplicationService/ApplicationServiceImpl.py
+    /home/dima/PycharmProjects/qalabs/lab2/PhoneRepository/PhoneRepositoryImpl.py
+    utestsLab3.py
