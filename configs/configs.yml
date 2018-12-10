@@ -4,6 +4,6 @@ mongodb_dev:
   table: phones
 
 mongodb_test:
-  host: mongodb://0.0.0.0:27017//
+  host: mongodb://0.0.0.0:27017/
   database: test_database
   table: test_phones
